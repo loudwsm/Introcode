@@ -1,0 +1,33 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: #F4402C;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: #EB6841;
+  font-weight: lighter;
+  font-size: 16px;
+}
+h1#title {
+	font-family: 'Carter One', cursive;
+	color:#00A0B0;
+	font-weight: bold;
+	font-size: 44px;
+}
+
+h2 {
+  font-family: 'Marcellus SC', serif;
+  color: #EB6841;
+  font-weight: lighter;
+  font-size: 24px;
+}
+a {
+  color: #FE4365;
+}
+a:hover {
+  text-decoration: none;
+  color: #F4402C;
+}
