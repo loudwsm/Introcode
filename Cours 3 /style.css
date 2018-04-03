@@ -16,29 +16,29 @@ nav{
 
 h1{
   font-family: 'Roboto', sans-serif;
-  color:  #41A3C0; 
+  color:  #CE4257; 
   font-weight: bolder;
   font-size: 2em;
 }
 
 h2 {
   font-family: 'Roboto', sans-serif;
-  color: #CE4257;
+  color: #F27929;
   font-weight: bolder;
   font-size: 1.5em;
 }
 
 p{
-  color: #4C3B4D;
+  color: #414141;
 }
 
 a { 
-  color: #4C3B4D;
+  color: #414141;
 }
 
 a:hover {
   text-decoration: none;
-  color: rgb(225, 0, 152);
+  color: #CE4257;
 }
 
 #logo{
@@ -49,7 +49,7 @@ a:hover {
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #61C9A8;
+  background-color: #08ACAC;
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -96,7 +96,7 @@ nav ul {
 }
 
 #logo{
-  color: #F27929;
+  color: #CE4257;
   font-size: 35px;
   font-family: 'Pacifico', cursive;
   float: left;
