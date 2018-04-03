@@ -18,6 +18,10 @@ h1#title {
 	font-size: 44px;
 }
 
+h1#title:hover {
+  background-color: #EB6841;
+}
+
 h2 {
   font-family: 'Marcellus SC', serif;
   color: #EB6841;
